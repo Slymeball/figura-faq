@@ -67,7 +67,7 @@ You can find avatars from [#avatar-showcase](https://discord.com/channels/805969
 
 ## I don't know how to code in Lua. How do I learn?
 
-Lua has an online manual for learning the syntax of the language, available at [lua.org/manual/5.4](https://www.lua.org/manual/5.4/). If you prefer a quicker read and something made by someone in the Figura community, Manuel_ (an admin) has created a quickstart guide available [here](https://manuel-3.github.io/lua-quickstart).
+Lua has an online manual for learning the syntax of the language, available [here](https://www.lua.org/manual/5.4/). If you prefer a quicker read and something made by someone in the Figura community, Manuel_ (an admin) has created a quickstart guide available [here](https://manuel-3.github.io/lua-quickstart).
 
 ## I cannot connect to the backend! Is the backend down?
 
