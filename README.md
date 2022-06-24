@@ -108,7 +108,7 @@ end
 ```
 
 > ⚠️ **Warning:**  
-> Pings (and most other backend functions) do not exist yet. When they do, check back here.
+> Pings (and most other backend functions) do not exist for the rewrite yet. When they do, check back here.
 
 ## Where can I find documentation for the rewrite?
 
