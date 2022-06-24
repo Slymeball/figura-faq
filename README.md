@@ -109,3 +109,22 @@ end
 
 > ⚠️ **Warning:**  
 > Pings (and most other backend functions) do not exist yet. When they do, check back here.
+
+## Where can I find documentation for the rewrite?
+
+There are three ways to get documentation for the rewrite, all displaying the same content.
+
+### In-Game
+
+Using the `/figura docs` command, you can look up any function and API. Try it out in game!
+
+### Using LightLoop
+
+Using the `/docs` command supplied by the discord bot LightLoop, you can look up any function or API in Figura. Make sure to use the [#bot-junk](https://discord.com/channels/805969743466332191/824741434078396468) channel for your commands, though!
+
+### Using FIGS!!
+
+[FIGS!!](https://applejuiceyy.github.io/figs) is a GitHub page created by the member [applejuice](https://github.com/applejuiceyy) that pulls documentation straight from the game and is the most user-friendly out of the list. To access it, go to <https://applejuiceyy.github.io/figs>.
+
+> ⚠️ **Warning:**  
+> FIGS!! is an unofficial online documentation using official documentation from the in-game `/figura docs` command.
