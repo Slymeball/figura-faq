@@ -131,4 +131,4 @@ Using the `/docs` command supplied by the discord bot LightLoop, you can look up
 
 ## When trying to delete my avatar, a toast appears saying "lol nope." What does this mean?
 
-This means you are on the rewrite, whose backend doesn't support deletion yet. Deletion (and more features like the Figura Profile and Avatar Browser) will be coming to the client and backend soon.
+This means you are on the rewrite, whose client doesn't support deletion yet. Deletion (and more features like the Figura Profile and Avatar Browser) will be coming to the client and backend soon.
