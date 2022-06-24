@@ -84,7 +84,7 @@ Lua has an online manual for learning the syntax of the language, available at [
 
 The prewrite backend is very unreliable when it comes to connection and uptime, but there are steps to recify this issue.
 
-First, if you are on 1.19 using the prewrite, you cannot connect to the Figura backend because Mojang changed their authentication servers. If you want to use the Figura backend in 1.19, you will have to use the rewrite.
+First, if you are on 1.19 using the prewrite, you cannot connect to the Figura backend because Mojang changed their authentication protocol, adding a step. If you want to use the Figura backend in 1.19, you will have to use the rewrite.
 
 If you are not playing on 1.19, try checking the status of the backend using the `?backend` command. If the bot displays an :x: trying to connect to the backend you are interested in, it is down and there is nothing you can do to fix it. 
 
@@ -128,7 +128,3 @@ Using the `/docs` command supplied by the discord bot LightLoop, you can look up
 
 > ⚠️ **Warning:**  
 > FIGS!! is an unofficial online documentation using official documentation from the in-game `/figura docs` command.
-
-## When trying to delete my avatar, a toast appears saying "lol nope." What does this mean?
-
-This means you are on the rewrite, whose client doesn't support deletion yet. Deletion (and more features like the Figura Profile and Avatar Browser) will be coming to the client and backend soon.
