@@ -66,7 +66,7 @@ Using a Lua script, you can change the UV of your model. Check the links below f
 > The following resources apply to the prewrite. A rewrite tutorial is coming soon.
 
 - [Tutorial](https://manuel-3.github.io/animated-texture)
-- [Example_Download](https://discord.com/channels/805969743466332191/808155531389698079/908426876345811014)
+- [Example](https://discord.com/channels/805969743466332191/808155531389698079/908426876345811014)
 - [`setUV` explanation](https://discord.com/channels/805969743466332191/808155531389698079/924140280909819904)
 
 ## Where can I find avatars to download?
