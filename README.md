@@ -16,8 +16,17 @@ end
 
 ### Rewrite
 
+To hide everything in the player model (including armor and held items), do the following:
+
 ```lua
 vanilla_model.ALL:setVisible(false)
+```
+
+To hide only the limbs, you will have to use a different set of lines.
+
+```lua
+vanilla_model.INNER_LAYER:setVisible(false)
+vanilla_model.OUTER_LAYER:setVisible(false)
 ```
 
 ## Why doesn't Optifine work with Figura?
