@@ -140,7 +140,15 @@ Using the `/docs` command supplied by the discord bot LightLoop, you can look up
 
 ## My avatar doesn't show up in Figura, even though it's in the correct spot. Why is this?
 
-If you're using the rewrite, this is perfectly normal. Rewrite avatars now require a special file to be read, `avatar.json`. You can have anything in this file, including nothing, and your avatar will be read as long as the file exists.
+If you're using the rewrite, this is perfectly normal. Rewrite avatars now require a special file to be read, `avatar.json`. You can have anything in this file, including nothing, and your avatar will be read as long as the file exists. Please check the following snippet for a quick `avatar.json` file.
+
+```json
+{
+	"name":"Example avatar.json",
+	"authors":["Your Name"],
+	"color":"#123456"
+}
+```
 
 If you're using the prewrite, check the names of your files. Are your models named `model.bbmodel` or `player_model.bbmodel`? Is your script named `script.lua`? Is your texture named `texture.png`? Please make sure your file extensions are on, which can be done in a Windows 10 file explorer by clicking "View" in the ribbon and then checking the "Show File Extensions" option.
 
